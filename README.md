@@ -1,5 +1,5 @@
 # Blind-Writer
-## Front-End, 9 Fast finger application
+## Front-End, 9 Fast finger application for those who love typing
 
 #### Used Technologies
 * Html
