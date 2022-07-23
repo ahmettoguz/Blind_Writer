@@ -120,10 +120,12 @@ function resetAllAtTheEnd() {
 }
 
 function displayResults() {
-  $("#resultWpm").text(Math.round(correctSpelledLetterCount / 5) + " WPM");
+  $("#resultWpm").text(
+    Math.round((correctSpelledLetterCount + correctSpelledCount) / 5) + " WPM"
+  );
   $("#correctWordSpan").text(correctSpelledCount);
   $("#inCorrectWordSpan").text(misSpelledCount);
-  $("#correctLetterSpan").text(correctSpelledLetterCount);
+  $("#correctLetterSpan").text(correctSpelledLetterCount + correctSpelledCount);
   $("#inCorrectLetterSpan").text(misSpelledLetterCount);
 }
 
