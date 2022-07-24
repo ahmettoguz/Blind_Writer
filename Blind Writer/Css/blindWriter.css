@@ -89,7 +89,7 @@ input#typeBox {
   width: 45px;
   height: 40px;
   top: 350px;
-  left: 990px;
+  left: 64.5%;
 }
 
 .fa-language {
@@ -103,7 +103,7 @@ input#typeBox {
   width: 45px;
   height: 40px;
   top: 350px;
-  left: 940px;
+  left: 61%;
 }
 
 .fa-repeat {
