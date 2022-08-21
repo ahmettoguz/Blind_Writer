@@ -36,6 +36,7 @@ function create_Composition_Array() {
     compositionArrayTR[i] = compositionArrayTR[i]
       .replace(/[.,"“”\/#!$%\^&\*;:{}=\-_`~()\d]/gi, "")
       .toLowerCase();
+    compositionArrayTR[i] = compositionArrayTR[i].replace("i̇", "i");
   }
 
   compositionParagraphTR = "";
