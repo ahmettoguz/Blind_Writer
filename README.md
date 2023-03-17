@@ -1,17 +1,55 @@
-# Blind-Writer
 ## Front-End, 9 Fast finger application for those who love typing
 
-#### Used Technologies
+<h1 align="center">Blind Writer</h1> <br>
+
+<div align="center">
+    <img width=150 src="/assets/Images/icon.ico">
+</div>
+
+<br/>
+
+## Table of Contents
+
+- [Demo](#demo)
+- [Introduction](#introduction)
+- [Technologies](#technologies)
+- [Features](#features)
+- [Contributors](#contributors)
+
+<br/>
+
+## Demo
+
+<div align="center">
+    <img width=850 src="/assets/Images/screen1.png">
+    <img width=850 src="/assets/Images/screen2.png">
+    <img width=850 src="/assets/Images/screen3.png">
+</div>
+
+<br/>
+
+<br/>
+
+## Introduction
+This project is a web based project. The main purpose of this project is to learn how to type 9 fingers on the keyboard, besides developing the project. One of the most important steps I took as a software developer was learning to write without looking at the keyboard. This both provided me comfort and increased my productivity to a certain extent. I wish patience to everyone who wants to learn how to write with 9 fingers and hope they will be success.
+
+<br/>
+
+## Technologies
+
 * Html
 * Css
 * JavaScript, Jquery
 
-##### ENG/TR language options  
+<br/>
 
+## Features
 
+* ENG/TR language options.
+* At the end of typing; word count, letter count and word per minute statistics are specified.
 
-![screen1](https://user-images.githubusercontent.com/101711642/180340267-ac4b0024-12e8-4fe4-8e2c-750841d59260.png)
+<br/>
 
-![screen2](https://user-images.githubusercontent.com/101711642/180340283-fe60c863-2dd7-4ab6-a647-865c0077573f.png)
+## Contributors
 
-![screen3](https://user-images.githubusercontent.com/101711642/180340290-89ee2d69-c55f-4876-a3d2-544e935a2a04.png)
+<a href="https://github.com/ahmettoguz" target="_blank"><img width=50 height=50 src="https://avatars.githubusercontent.com/u/101711642?v=4"></a>
