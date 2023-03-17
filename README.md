@@ -1,5 +1,3 @@
-## Front-End, 9 Fast finger application for those who love typing
-
 <h1 align="center">Blind Writer</h1> <br>
 
 <div align="center">
