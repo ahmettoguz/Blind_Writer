@@ -20,13 +20,13 @@
 
 ## Demo
 
+<br/>
+
 <div align="center">
     <img width=850 src="/assets/Images/screen1.png">
     <img width=850 src="/assets/Images/screen2.png">
     <img width=850 src="/assets/Images/screen3.png">
 </div>
-
-<br/>
 
 <br/>
 
